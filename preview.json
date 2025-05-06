@@ -1,0 +1,26 @@
+[
+  {
+    "id": "acbe7236-bc53-41bf-afa2-843002853bdd",
+    "createdAt": "2025-05-06T11:43:53.583Z",
+    "group": "bc937208-3656-4208-ab82-491751ca082a",
+    "branch": "main",
+    "message": "update",
+    "runtimeVersion": "1.0.0",
+    "platform": "android",
+    "manifestPermalink": "https://u.expo.dev/update/acbe7236-bc53-41bf-afa2-843002853bdd",
+    "isRollBackToEmbedded": false,
+    "gitCommitHash": "0f2e583f33dd1bde5d4d06767329ab09700f3403"
+  },
+  {
+    "id": "5abcfddd-5c6c-4e5b-9a87-2dc0d648f68b",
+    "createdAt": "2025-05-06T11:43:53.583Z",
+    "group": "bc937208-3656-4208-ab82-491751ca082a",
+    "branch": "main",
+    "message": "update",
+    "runtimeVersion": "1.0.0",
+    "platform": "ios",
+    "manifestPermalink": "https://u.expo.dev/update/5abcfddd-5c6c-4e5b-9a87-2dc0d648f68b",
+    "isRollBackToEmbedded": false,
+    "gitCommitHash": "0f2e583f33dd1bde5d4d06767329ab09700f3403"
+  }
+]
